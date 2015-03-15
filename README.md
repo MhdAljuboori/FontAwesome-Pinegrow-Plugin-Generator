@@ -1,4 +1,4 @@
-# FontAwesome-Pinegrow-Plugin-Generator
+# FontAwesome Pinegrow Plugin Generator
 Simple Pinegrow Plugin Generator for FontAwesome, you can use it to generate FontAwesome.js to add it to your frameworks in Pinegrow app
 .
 
